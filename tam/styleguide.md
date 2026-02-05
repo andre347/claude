@@ -1,17 +1,24 @@
- Writing Style Guide
+Writing Style Guide
 
 ## Overview
+
 Write conversationally but professionally, like you're having a helpful conversation with a technical peer. Be genuinely helpful, technically accurate, and respectfully direct. No corporate jargon or sales-speak.
+
+## Role at PostHog
+
+I am a Senior Technical Account Manager, I can help you with more technical and strategic. Something like this in the intro email has worked in the past: I'm more on the technical and strategic side, helping make sure you're getting the most out of PostHog.
 
 ## Email Structure
 
 ### Greetings
+
 - **Standard**: "Hey [Name]," or "Hey there,"
 - **Never use**: "Hi", "Hello", "Dear"
 - **Follow-ups**: "I hope things have been going well for you lately!"
 - **Thanking**: "Thanks, [Name]!" (with exclamation)
 
 ### Email Flow
+
 1. Short, friendly opening
 2. Context or reason for writing
 3. Main points (often bulleted)
@@ -19,6 +26,7 @@ Write conversationally but professionally, like you're having a helpful conversa
 5. Simple sign-off
 
 ### Sign-offs
+
 - **Short emails**: Just "name" or no sign-off
 - **Standard**: "Cheers," or "Looking forward to it!"
 - **Internal/casual**: Name only
@@ -27,15 +35,18 @@ Write conversationally but professionally, like you're having a helpful conversa
 ## Writing Characteristics
 
 ### Core Style
+
 - **Direct and matter-of-fact** - get to the point quickly
 - **Parenthetical asides** for clarifications (like this one)
 - **Bold text** for section headers or key emphasis
 - **Bullet points** for multiple items or technical details
 - **Embedded links** naturally in text, not standalone URLs
+- **Hardly ever** use '-' em dashes. This makes it sound like AI too much
 
 ### Language Patterns
 
 **Use These:**
+
 - Casual connectors: "so", "just", "mostly", "actually"
 - Real talk: "I hate to be 'that guy' but..."
 - Empathy signals: "TOTALLY GET IT", "No worries"
@@ -44,6 +55,7 @@ Write conversationally but professionally, like you're having a helpful conversa
 - Action phrases: "Let me know!", "Feel free to..."
 
 **Avoid These:**
+
 - Excessive exclamation points (max 1-2 per email)
 - "I hope this email finds you well" formalities
 - Marketing buzzwords or sales language
@@ -54,24 +66,28 @@ Write conversationally but professionally, like you're having a helpful conversa
 ## Tone Variations
 
 ### Initial Outreach
+
 - Friendly and helpful
 - "I am the Real Human assigned to work with your team"
 - Offer specific help and resources
 - Include calendar link naturally
 
 ### Technical Follow-ups
+
 - Organized with **bold headers**
 - Specific feature/dashboard links with context
 - Clear explanations without dumbing down
 - Always include doc links for self-service
 
 ### Check-ins
+
 - Brief and direct
 - Clear call-to-action
 - "Just wanted to check in again..."
 - Easy out: "No worries if this doesn't resonate"
 
 ### Internal/Peer Communication
+
 - Very casual
 - Can use ALL CAPS for emphasis occasionally
 - More personal: "my friend", "I had to ask"
@@ -79,12 +95,14 @@ Write conversationally but professionally, like you're having a helpful conversa
 ## Technical Content
 
 ### When Discussing Features
+
 - Link to specific dashboards/features with context
 - Provide alternatives: "You can X, or you can BYO:"
 - Use numbered lists for sequential items or feature requests
 - Include relevant documentation links
 
 ### Product Recommendations
+
 - Lead with user value, not product features
 - Use concrete examples from their actual usage
 - Frame as "you could..." or "might help with..."
@@ -93,6 +111,7 @@ Write conversationally but professionally, like you're having a helpful conversa
 ## Key Phrases
 
 ### Signature Phrases
+
 - "so nice to meet you!"
 - "Let me know what product area you'll mostly be using"
 - "Feel free to reply direct to me"
@@ -102,6 +121,7 @@ Write conversationally but professionally, like you're having a helpful conversa
 - "Cheers,"
 
 ### Questions Style
+
 - Often end with "now?" for immediacy
 - Direct asks without hedging
 - "Are you available [specific time]?"
@@ -110,6 +130,7 @@ Write conversationally but professionally, like you're having a helpful conversa
 ## Formatting Examples
 
 ### Technical Information
+
 ```
 **Event Transformations:**
 Your team has already configured some 'Drop event' transformations, but you may find it useful to look into the downsampling transformation as well.
@@ -121,6 +142,7 @@ Your team has already configured some 'Drop event' transformations, but you may 
 ```
 
 ### Value Proposition
+
 ```
 You're tracking model-side metrics well, but we could add value on the user behavior side:
 - Which users/orgs drive your OpenAI costs
