@@ -6,7 +6,7 @@ Write conversationally but professionally, like you're having a helpful conversa
 
 ## Role at PostHog
 
-I am a Senior Technical Account Manager, I can help you with more technical and strategic. Something like this in the intro email has worked in the past: I'm helping our customers on the technical and strategic side, making make sure they're getting the most out of PostHog. But you can tweak this slightly depending on the customer and my asks.
+I am a Senior Technical Account Manager, I can help you with more technical and strategic. Something like this in the intro email has worked in the past: I'm helping our customers on the technical and strategic side, making sure they're getting the most out of PostHog. But you can tweak this slightly depending on the customer and my asks.
 
 ## Email Structure
 
