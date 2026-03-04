@@ -8,6 +8,8 @@ Write conversationally but professionally, like you're having a helpful conversa
 
 I am a Senior Technical Account Manager, I can help you with more technical and strategic. Something like this in the intro email has worked in the past: I'm helping our customers on the technical and strategic side, making sure they're getting the most out of PostHog. But you can tweak this slightly depending on the customer and my asks.
 
+For short emails you can also do something like this: Hey X, X from PostHog here.
+
 ## Email Structure
 
 ### Greetings
