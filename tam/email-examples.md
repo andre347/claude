@@ -25,3 +25,9 @@ I noticed one of your events query:error from the web library, and it made me th
 Thought it might be worth mentioning. Feel free to tell me I am stupid and theres a better reason to keep it as an event!
 
 Best
+
+## Slack Message when starting a new channel with customer and inviting them
+
+Hey @_name_ got this channel set up for easier coordination with the team. Anyone else may be good to bring in here? I'm unsure who's managing the posthog instance from your side most recently. And on top of that your spend has been ramping up, so i want to make sure I can help with any optimization or other tips if needed!
+
+totally fine if you wanna keep things async, but generally it's useful for both sides to get on a live call to help me understand your current posthog setup so i can best help you, talk roadmap or feedback, or discounting. I'm a combo-engineer+account manager for you all in one. Can we get a time set-up this week? 30 Min Cal
